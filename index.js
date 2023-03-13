@@ -5,3 +5,4 @@ if(a===b){
 }else{
     console.log("no match")
 }
+console.log(error)
